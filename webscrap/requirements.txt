@@ -6,7 +6,7 @@ Twisted-Web==13.2.0
 apt-xapian-index==0.45
 argcomplete==0.8.1
 argparse==1.2.1
-bottle==0.12.4
+bottle==0.12.20
 chardet==2.0.1
 colorama==0.2.5
 command-not-found==0.3
